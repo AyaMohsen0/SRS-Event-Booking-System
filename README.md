@@ -56,10 +56,10 @@ The SRS includes:
 
 ## My Contribution
 
-- Contributed to system analysis and requirements documentation
-- Worked on defining user workflows and interaction scenarios
-- Participated in documenting use cases and functional requirements
-- Assisted in analyzing platform behaviors and system features
+- Designed and developed the complete Use Case Model for the Event Booking System
+- Contributed to software requirements analysis and functional documentation
+- Worked on user workflows, interaction scenarios, and system behavior modeling
+- Participated in defining platform features, actor permissions, and use case flows
 
 ## Example System Functionalities
 
