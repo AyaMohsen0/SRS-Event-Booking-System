@@ -64,16 +64,16 @@ The SRS includes:
 ## Example System Functionalities
 
 ### Ticket Booking Workflow
-Users can browse events, select seats, complete payments, and receive QR-coded tickets with automated reminders before the event date. :contentReference[oaicite:0]{index=0}
+Users can browse events, select seats, complete payments, and receive QR-coded tickets with automated reminders before the event date.
 
 ### User Engagement Features
-The platform supports event ratings, comments, feedback moderation, and social sharing functionalities. :contentReference[oaicite:1]{index=1}
+The platform supports event ratings, comments, feedback moderation, and social sharing functionalities.
 
 ### Organizer Management Tools
-Event organizers can manage events, ticket availability, pricing, and generate reports based on attendance and revenue statistics. :contentReference[oaicite:2]{index=2}
+Event organizers can manage events, ticket availability, pricing, and generate reports based on attendance and revenue statistics.
 
 ### Administrative Controls
-Admins can verify organizer accounts, monitor platform statistics, and manage users across the platform. :contentReference[oaicite:3]{index=3}
+Admins can verify organizer accounts, monitor platform statistics, and manage users across the platform.
 
 ## Academic Context
 
