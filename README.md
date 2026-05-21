@@ -74,7 +74,3 @@ Event organizers can manage events, ticket availability, pricing, and generate r
 
 ### Administrative Controls
 Admins can verify organizer accounts, monitor platform statistics, and manage users across the platform.
-
-## Academic Context
-
-This project was developed as part of a university Software Engineering course and focused on applying software requirements engineering and system analysis principles to a real-world event booking platform scenario.
